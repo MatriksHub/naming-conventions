@@ -5,4 +5,4 @@ This repository documents the naming conventions for projects to ensure consiste
 
 ## Contents 
 
-- [Branch Naming Conventions](branch-naming.md)
+- [Branch Naming Conventions](branch-naming-convention.md)
